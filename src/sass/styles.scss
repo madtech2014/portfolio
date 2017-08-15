@@ -105,10 +105,10 @@ footer {
     text-align: center;
 }
 
-@media screen and (max-width: 765px) {
+@media screen and (max-width: 350px) {
   .main { display: none; }  /* removed on small screens */
 }
 
-@media screen and (max-width: 765px) {
+@media screen and (max-width: 350px) {
   hr { display: none; }  /* removed on small screens */
 }
